@@ -49,10 +49,10 @@ The key focus is to forecast sales, develop an optimal distribution plan, and ev
 - Linear programming tools in Excel (Solver) to optimize the distribution strategy.
 
 ### ⚙️ **Files in This Repository**
-1. **Excel File:**
+1. **Excel File:** (Supply Chain Analysis.xlsx)
    - Contains the cleaned data, analysis, forecasts, and simulation results.
 2. **PDF Report**:
-   - Supply Chain Analysis contains detailed business report outlining the analysis, methodology, and business recommendations.
+   - Supply Chain Analysis pdf contains detailed business report outlining the analysis, methodology, and business recommendations.
 
 ### 📝 **Conclusion**
 This project demonstrates how data-driven insights can enhance supply chain decision-making and improve operational efficiency. By leveraging historical data, forecasting models, and optimization techniques, the recommendations aim to help Winter Rock better manage inventory, forecast demand, and maximize profits.
